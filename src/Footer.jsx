@@ -20,7 +20,7 @@ const Footer = () => {
         </div>
        
       </div>
-      <p className="footer-bottom">&copy; 2025 Your Website Name. All Rights Reserved.</p>
+      <p className="footer-bottom">&copy; 2025 Perfumy. All Rights Reserved.</p>
     </footer>
   );
 };
